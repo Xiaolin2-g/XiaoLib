@@ -1,0 +1,9 @@
+accessWidener v2 named
+
+accessible class net/minecraft/data/client/BlockStateModelGenerator$BlockTexturePool
+accessible class net/minecraft/data/client/BlockStateModelGenerator$TintType
+
+accessible    field    net/minecraft/entity/mob/ZombieEntity    BABY    Lnet/minecraft/entity/data/TrackedData;
+
+extendable    method    net/minecraft/entity/ai/goal/TemptGoal    isTemptedBy    (Lnet/minecraft/entity/LivingEntity;)Z
+extendable    method    net/minecraft/item/Item    getRecipeRemainder    ()Lnet/minecraft/item/Item;
