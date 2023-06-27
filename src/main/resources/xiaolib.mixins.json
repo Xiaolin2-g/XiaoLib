@@ -7,7 +7,6 @@
     "BlockStateModelGeneratorMixin"
   ],
   "client": [
-    "ExampleMixin"
   ],
   "injectors": {
     "defaultRequire": 1
